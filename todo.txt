@@ -8,3 +8,5 @@ MY TO-DO LIST
 6. Apply for remote jobs. 
 7. Practice code.
 8. Build projects.
+9. Complete internship tasks.
+10. Fix bugs.
